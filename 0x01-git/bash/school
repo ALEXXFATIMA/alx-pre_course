@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo School
+=======
+echo "School"
+>>>>>>> e446caeb3add9de2d64030d77e6c0b28e63d89dc
